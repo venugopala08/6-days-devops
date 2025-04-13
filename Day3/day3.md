@@ -43,10 +43,13 @@ key-pair name
 storage
 instance name
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
-commands:
-terraform init --> will initialize terraform backend configuration with the cloud api. It is going to generate a license key to authenticate cloud provider API as well as it is going to create. terraform folder, which contains -> license and neccesary files
-terraform validate
-terraform plan -tells what u plan to do in the cloud
-terraform apply Now ur server is ready!!!!
-terraform destroy - will automatically delete all the resources When u execute the command terraform plan --> it will automatically create terraform .tf state file, which contains the current state of the infrastructure
+# commands:
+* terraform init --> will initialize terraform backend configuration with the 
+  cloud api. It is going to generate a license key to authenticate cloud provider 
+  API as well as it is going to create. terraform folder, which contains -> 
+  license and neccesary files
+* terraform validate
+* terraform plan -tells what u plan to do in the cloud
+* terraform apply Now ur server is ready!!!!
+* terraform destroy - will automatically delete all the resources When u execute the command terraform plan --> it will automatically create terraform .tf state file, which contains the current state of the infrastructure
 whenever u create vpc - vpc should contain name and ip address range & tennancy -
