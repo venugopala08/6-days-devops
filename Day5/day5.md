@@ -43,7 +43,7 @@ vi cluster.sh (in putty) and right click (if not enter I and right click ) and e
 
 * now in aws --> search for IAM and select users from the sidebar --> create user --> sinchana-k8s -->next -->3rd block & 2nd option administrativeaccess --> create user --> cliateck on sinchana-k8s -->security credential --> create access key -->user key - keep it blank --> next and download csv file
 
- ![429413011-be8f6a57-e0c6-485f-bb64-cd212bec3ef4](https://github.com/user-attachments/assets/8f4cc0a9-5d4e-4823-b9b8-01e35fad5b44)
+
 # in putty:
 
 * eksctl
