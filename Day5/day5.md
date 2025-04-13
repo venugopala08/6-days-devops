@@ -26,7 +26,7 @@ What is Kubernetes??
 1.Create a jump server or bastion host (create instance using ubuntu) (sameeksha-bastianhost)
 
 2.We have to install EKSCTL, Kubectl, AWS CLI.sh
-![429400367-f1dbb659-26a0-4ddb-b82e-29524cc48be4](https://github.com/user-attachments/assets/daa33c8d-6800-433f-9c5b-e5881276602c)
+
 vi cluster.sh (in putty) and right click (if not enter I and right click ) and enter
 
 * esc and enter :wq
@@ -94,7 +94,7 @@ in putty:
 
 snap install kubectl --classic
 
-aws eks update-kubeconfig --name sameeksha-cluster --region ap-south-1
+aws eks update-kubeconfig --name sinchana-cluster --region ap-south-1
 
 kubectl get nodes (to get list of nodes)(there should be 3 since we mentioned earlier as 3)
 
