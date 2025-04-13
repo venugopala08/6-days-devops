@@ -1,10 +1,10 @@
-Jenkins Pipelines for Beginners
+# Jenkins Pipelines for Beginners
 This guide is for beginners who want to understand and create pipelines in Jenkins. Pipelines help you automate the process of building, testing, and deploying applications.
 
 What is a Jenkins Pipeline?
 A Pipeline is a set of steps (scripted) that Jenkins runs to automate software delivery. It's written using Groovy-based syntax and stored in a file called Jenkinsfile.
 
-Types of Pipelines
+# Types of Pipelines
 Type	Description
 Declarative	Easy-to-read, structured syntax (recommended for beginners)
 Scripted	More flexible, written in Groovy (advanced users)
@@ -42,4 +42,6 @@ H/3 17 27 3 5
 ![image](https://github.com/user-attachments/assets/dd22bfb4-f23d-4359-999b-1f1ac5a75448)
 
 
+![image](https://github.com/user-attachments/assets/f1c99a8c-d2ca-4ead-8d1b-530945ca79ca)
 
+![image](https://github.com/user-attachments/assets/f1fb5c09-5042-4ea9-a709-c90e9ee390e9)
