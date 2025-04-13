@@ -34,16 +34,12 @@ Manage jenkins ->Plugins->available plugins
 maven
 deploy to container->install
 http://18.209.63.62:8080/
-
-![433061322-acc5e2cb-7243-40e4-af2c-0dd840420a2e](https://github.com/user-attachments/assets/e6c79e05-bad1-485f-890c-b92ef5f0ed56)
-
-
 configuration in program file:
-
-
+![433061322-acc5e2cb-7243-40e4-af2c-0dd840420a2e](https://github.com/user-attachments/assets/e6c79e05-bad1-485f-890c-b92ef5f0ed56)
 
 H/3 17 27 3 5
 
+![image](https://github.com/user-attachments/assets/dd22bfb4-f23d-4359-999b-1f1ac5a75448)
 
 
 
